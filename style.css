@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font: normal 16px Arial, Helvetica, sand-selif;
+    color: #333;
+
+}
+
+#particles-js {
+    background: navy;
+    height: 400px;
+}
+
+#btext {
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    width: 100%;
+    font-size: 3rem;
+    color: white;
+}
+
+h1 {
+    font-size: 50px
+}
+
+#particles-js {
+    background-image: url("1_back\ image.001.png");
+    height: 100vh;
+}
